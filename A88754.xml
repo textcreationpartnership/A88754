@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last vvill and testament, of Sir Iohn Presbyter: vvho dyed of a new disease called, the particuler charge of the army. VVith divers admonitions and legacies left to his deare children of the Presbyterian Commons that have deserted the House: likewise to legions of perjur'd priests, residing in London, Westminster or else-where. VVith his life, death, and buriall. Also his epitaph.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88754</idno>
+            <idno type="STC">Wing L526</idno>
+            <idno type="STC">Thomason E399_22</idno>
+            <idno type="STC">ESTC R201723</idno>
+            <idno type="EEBO-CITATION">99862222</idno>
+            <idno type="PROQUEST">99862222</idno>
+            <idno type="VID">160387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160387)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last vvill and testament, of Sir Iohn Presbyter: vvho dyed of a new disease called, the particuler charge of the army. VVith divers admonitions and legacies left to his deare children of the Presbyterian Commons that have deserted the House: likewise to legions of perjur'd priests, residing in London, Westminster or else-where. VVith his life, death, and buriall. Also his epitaph.</title>
+                  <author>Presbyter, John, Sir.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere of Iubilee, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160387:1" rendition="simple:additions"/>
+            <p>The laſt Will and Teſtament, OF SIR IOHN PRESBYTER: VVho dyed of a new <hi>Diſeaſe</hi> called, The particuler Charge of the ARMY.</p>
+            <p>VVith diverſe Admonitions and Legacies left to his deare Children of the <hi>Presbyterian</hi> Commons that have deſerted the Houſe: Likewiſe to Legions of <hi>perjur'd Prieſts,</hi> reſiding in London, Weſtmin<g ref="char:EOLhyphen"/>ſter or elſe-where.</p>
+            <p>VVith his Life, Death, and Buriall.</p>
+            <p>ALSO HIS EPITAPH.</p>
+            <p>
+               <add>July 22</add> Printed in the yeere of Iubilee, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="parody_of_a_last_will_and_testament">
+            <pb facs="tcp:160387:2"/>
+            <pb n="1" facs="tcp:160387:2"/>
+            <head>The Laſt Will, &amp;c. Know all men by theſe preſents, that I,</head>
+            <p>
+               <seg rend="decorInit">I</seg>Ohn Presbyter Knight, by Country a <hi>Scotch-man,</hi> of the Tribe of <hi>Rabſhekah,</hi> of the Linage of <hi>Judas;</hi> (being of perfect memory, only a little troubled with mel<g ref="char:EOLhyphen"/>lancholly, and a diſeaſe called, <hi>The parti<g ref="char:EOLhyphen"/>cular Charge of the Army</hi>) doe ordaine this my laſt Will and Teſtament to ſtand in full force and vertue.</p>
+            <p>
+               <hi>Imprimis,</hi> I give and bequeath my ſoule into the hands of him that gave it, and whereas I have alwaies (in my life time) been uſed, and taught all others to plunder and rob both God and Caeſar of their dues; yet at my death I deteſt all ſuch horrid Actions, Equivocations, and mentall Re<g ref="char:EOLhyphen"/>ſervations, and will not rob the Devill of his: Therefore in plaine Engliſh, <hi>Devill take thy due.</hi>
+            </p>
+            <p>For my body, I bequeath to the earth; provided firſt, That it be firſt decently wrapped in ſix ſheets of the <hi>Di<g ref="char:EOLhyphen"/>rectory,</hi> and then reverently coffined up in the ſacred <hi>Or<g ref="char:EOLhyphen"/>dinance for Tithes,</hi> and ſo with all ſolemnity carried from the <hi>Temple</hi> to <hi>Weſtminſter</hi> by the <hi>C. L.</hi> aſſes, Doctour <hi>Burges,</hi> Doctour <hi>Gouge,</hi> Maſter <hi>Edwards,</hi> and <hi>Byfeild</hi> being cloſe Mourners, and going before the corps, and the wicked Elders following after, weeping, howling, and gnaſhing of their teeth, as if they were already in the fire, which ſuch ſtinking Trees were made for, upon one of which
+<pb n="2" facs="tcp:160387:3"/>
+               <hi>Judas</hi> my my great Granſire hanged himſelfe: you may read more of them in the Hiſtory of <hi>Suſanna,</hi> with a ſlow motio, and in the midſt of the ſtreets, that my body may be ſeene by all, and let your ſorrow ſo much abound, that you may take up that Lamentation of old, <hi>Wiſdome crying out in the ſtreets, but none regardeth her</hi>—my will is, That my learned Countrey-man, Doct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Cybballs teach at my Fu<g ref="char:EOLhyphen"/>nerall in a deplorable tone of language (according to his ſpeciall gift) my will being that he preach upon that text in the 89. Pſalm. verſ. 44 <hi>The dayes of my youth haſt thou ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtened, and covered me with diſhonour.</hi>
+            </p>
+            <p>Next I deſire that Mr. <hi>Calamy</hi> and Mr. <hi>Caſe</hi> may be ſent up to deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a conferrence with both Houſes, to procure an Ordinance, that the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may be a day of Humiliation appoin<g ref="char:EOLhyphen"/>ted, and ſet appart to deplore my ſad loſſe, and that a Meſ<g ref="char:EOLhyphen"/>ſage be prepared, and ſent with all ſpeed into <hi>Scotland,</hi> to give them timely not<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce thereof, that they may humble themſelves with you, and that whereas wee have continu<g ref="char:EOLhyphen"/>ed a Monthly Faſt for the diſtreſſed <hi>Proteſtants in Ireland,</hi> and wee our ſelves having revoked the <hi>Proteſtant Religion,</hi> and inſtituted the <hi>Presbyterian,</hi> (and now finding our owne diſtreſſes to be above or equall with theirs) we con<g ref="char:EOLhyphen"/>clude that our prayers have not beene ava leable for them, and may now change the day, and faſt and pray as long or longer for our ſelves. And likewiſe, that they may be plea<g ref="char:EOLhyphen"/>ſed to put it to the Vote, whether my corps may not be in<g ref="char:EOLhyphen"/>terred neere his Excellency their late Lord Generall, and Mr. John pym, and ſo hereafter all Parliament men diſcea<g ref="char:EOLhyphen"/>ſing, that wee our ſelves may as well now, as hereafter take up all the reſting places of the Saints, and ſo leave no roome for either the King or his evill Counſell or Popiſh Biſhops, they having formerly engroſſed that place only for themſelves, that an Ordinance may be ſpeedily drawne up to this effect.</p>
+            <p>Thirdly, I will and bequeath unto Doctour <hi>Burges</hi> to have the diſpoſing of all fat Benefices whatſoever; provi<g ref="char:EOLhyphen"/>ded
+<pb n="3" facs="tcp:160387:3"/>
+that the ſaid Dr. <hi>Burges</hi> hold and freely enjoy as many of the ſaid Benefices as he himſelfe pleaſeth, and the reſt to be by him diſpoſed of to ſuch perſons as he ſhall thinke quallified and indued with gifts befitting ſo great a <hi>Cauſe</hi> as the preſent <hi>Reformation</hi> ſhall require; to which end, for the better encouragement of him the ſaid Dr. therein, I do freely give and bequeath unto the ſaid Dr. <hi>Burges</hi> all the ſcaffolds, and looſe ſtones in or about, or belonging to the Church of <hi>Pauls,</hi> to pull downe, take, carry away, and diſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe of as he ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll thinke fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting.</p>
+            <p>Fourthly, I give and bequeath unto my Reverend Son D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Gouge</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he full ſum of 500 l for theſe Religious uſes fol<g ref="char:EOLhyphen"/>lowing, <hi>viz.</hi> 20 pounds to find his Pariſh Bell-ropes, and in caſe his ſaid Pariſh ſhall not have any uſe thereof, that he or any of the reſt of the venerable <hi>Aſſembly</hi> ſhall have full power and authority to uſe them at their owne diſcre<g ref="char:EOLhyphen"/>tions: That one hundred and 50 pounds ſhall be by the ſaid<note n="*" place="margin">like to l ke quoth the Devill to the Co<g ref="char:EOLhyphen"/>lier,</note> Dr. <hi>Gouge</hi> disburſed in ſea-coale whilſt they are cheap, and by him ſellered up (as lately he did, moſt of his Pariſh can juſtifie the ſame) and by him againe ſold out to the poor of his Pariſh, or any other poor Chriſtians at 10.d. the Buſhell cleer gaines. And I ordaine that he imploy the remaining ſum in like manner, or if he thinks it fitting to put it to uſe at 10 in the hundred, and not under, and the gains thereof ariſing to be diſtributed equally to Mr. <hi>John Prin,</hi> and Dr. <hi>Baſtwick,</hi> that they may be the better encou<g ref="char:EOLhyphen"/>raged to <hi>Query</hi> againſt the <hi>Army,</hi> to raile againſt <hi>Indepen<g ref="char:EOLhyphen"/>dents,</hi> to roote out <hi>Monarchy,</hi> and to prove <hi>Presbytery jure Divino,</hi> provided that the <hi>principall</hi> remaine intire to Dr. <hi>Gouge</hi> himſelfe, without any other fraud or deceit.</p>
+            <p>Fiftly, I give and bequeath to my deare Child Mr. <hi>Ed<g ref="char:EOLhyphen"/>wards,</hi> 5<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 acres of Biſhops Lands, with all the timber growing thereon, to be by him converted to Gibbets to hang up the <hi>Independents;</hi> and in caſe the ſaid <hi>Independents</hi> ſhall reſiſt the holy Synod, as is probable they will; That then it ſhall be lawfull for any of the Aſſembly being al<g ref="char:EOLhyphen"/>ready
+<pb n="4" facs="tcp:160387:4"/>
+furniſhed with hemp (if not enough in my former Legacy, the Common people of England queſtionleſſe will ſupply their needs) to hang themſelves, and to fulfill the old Proverb, give them halter enough and theile hang themſelves.</p>
+            <p>Sixtly, I give and bequeath all my plundered Books, and Libraries lately tane from the Biſhops to Mr. <hi>Calamy,</hi> Mr. <hi>Sedgwick,</hi> and Mr. <hi>Caſe,</hi> it being likely the Caſe may ſud<g ref="char:EOLhyphen"/>denly be altered, and my Son <hi>Calamy</hi> feele <hi>Calamity,</hi> for I feare deſtruction is nie, and my ſon <hi>Sedgwick</hi> will ſhortly bleat (like one of <hi>Jeroboams</hi> Calves) to his Country-men in <hi>Eſſex,</hi> in one onely ſingle poore Benefice.</p>
+            <p>Seventhly, I give and bequeath all my <hi>Charity</hi> to the <hi>Al<g ref="char:EOLhyphen"/>dermen</hi> of the City, and by them to be diſpſed of to the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> as they ſhall have need thereof.</p>
+            <p>Eightly, All my wiſdome and learning to the <hi>Com<g ref="char:EOLhyphen"/>mon Counſell,</hi> that they may preſerve the City as I and my Children have preſerved the <hi>Church,</hi> and brought it to the great light and glory that now you ſee it is.</p>
+            <p>Ninthly I give and bequeath to all broken <hi>Aldermen,</hi> de<g ref="char:EOLhyphen"/>funct <hi>Committees,</hi> and <hi>accuſed Members</hi> of the Houſe of Commons, my new <hi>Creed;</hi> and by them to be diſpoſed of to their Creditors, and all others as they ſhall ſee cauſe, that they may renew their faith, and againe become credible men, by which meanes the publique faith may againe re<g ref="char:EOLhyphen"/>vive, and the City look up: and whereas my Predeceſſor known by the name of Doctors Commons of famous me<g ref="char:EOLhyphen"/>mory did deceaſe about ſix yeeres ſince having firſt made a will which was made publique in print, and for as much as the ſaid Doctors Commons is againe revived to my great and unſpeakeable terrour, I doe heereby bequeath unto my ſaid Predeceſſor all juriſdiction, priviledges, profits, and e<g ref="char:EOLhyphen"/>moluments whatſoever ſo unjuſtly uſurped and detained by me, and the reſt of my precious Brats.</p>
+            <p>Tenthly, All my zeale for the Cauſe I give and bequeath to the diſſenting Souldiers that have deſerted the Army, that
+<pb n="5" facs="tcp:160387:4"/>
+they may ſtand up mightily in the gap, and ſtop that plaguy devouring Army of Sir <hi>Thomas Fairefax.</hi>
+            </p>
+            <p>Eleventhly, I give and bequeath all my new invented <hi>Oathes,</hi> and <hi>Covenants,</hi> all my <hi>Schiſmaticall Sermons,</hi> all my <hi>perjuries, forgeries, plots, treacheries, rebellions, Equivocations,</hi> and <hi>mentall reſervations,</hi> to my deare children the <hi>Scots,</hi> provived that they ſhall make uſe of them in their owne Country, and not elſe where.</p>
+            <p>Twelfely, I give and bequeath unto Dr,<note n="*" place="margin">A noto<g ref="char:EOLhyphen"/>rious turn-coat.</note> 
+               <hi>Cyballs,</hi> 10.l. of lawfull money of <hi>England,</hi> in conſideration of my Funerall Sermon, beſides two <hi>Canonicall Coates,</hi> which he may turne, as he ſees fitting, and I de<g ref="char:EOLhyphen"/>ſire him to make his prayer ſhorter then the ordinary uſe hath been, for I my ſelfe muſt confeſſe the blaſphemies, treaſons, hereſies, incongrui<g ref="char:EOLhyphen"/>ties, tautologies, abſurdities of my children in their meaſure of prayer, from time to time (obſerved by the people) hath been a great cauſe of my untimely deceaſe: And alſo I deſire that his <hi>Sermon</hi> may be printed, and publiſhed, and that Wall-eyd <hi>Bartlet</hi> at <hi>Auſtins-gate,</hi> and <hi>Bellamy</hi> at the Old Exchange have the printing thereof, and that an Ordinance may be deſired, that none dare to reprint the ſame.</p>
+            <p>Laſtly, I doe intruſt all that out of a Conſcientious duty to me (ſhall ſuddenly after my diſceaſe) Leave &amp; abandon the Houſe of Commons (Provided they exceed not the number of threeſcore) to be my Execu<g ref="char:EOLhyphen"/>tors, that they ſee this my laſt will &amp; teſtament performed, without any fraud according to the true ſenſe &amp; meaning therof, and the ſeveral lega<g ref="char:EOLhyphen"/>cies to be paid to the perſons aforeſaid within five moneths after my death. And this my will to remaine in full force, revoking all former Wills, Bonds, Bills, Gifts, whatſoever.</p>
+            <closer>
+               <signed>VVitneſſe my hand and Seale,
+<list>
+                     <item>Iohn Presbyter.</item>
+                     <item>Simon Synod.</item>
+                     <item>Cornelius Burges.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Adoniram Byfield,</hi> Scribe.</p>
+               <p>Sealed and delivered,<hi>Iuly,</hi> 1647.</p>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:160387:5"/>
+            <head>Poſtſcript.</head>
+            <p>REjoyce O heavens, ſing aloud O earth, clap thy hands for joy, O <hi>England poſt nubula ſoles,</hi> thou ſhall now have a time of quietneſſe, of peace, of content, for <hi>Presbyter John</hi> is dead, and will never vex thee more, nor impriſon thy free Denizens, nor eate up thy fat things, not devour thy good things, nor eate the bread out of thy childrens mouths: Therefore farewell perſecution for <hi>conſcience;</hi> farewell <hi>Ordinance for Tythes;</hi> farewell <hi>Eccleſiaſticall Supremacy;</hi> farewell <hi>Pont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficall Reve<g ref="char:EOLhyphen"/>nue;</hi> farewell <hi>Diſſembly of Devines,</hi> diſſembled at <hi>Weſtminſter,</hi> you ſhall conſult together no more; farewell Sir <hi>Simon Synod,</hi> and his ſon <hi>Presbyter Jack.</hi>
+            </p>
+            <q xml:lang="lat">Gens antiqua ruit, multos dominata per Annos,</q>
+            <p>And therefore O England,
+<q xml:lang="lat">Inter pone tuis, interdum gaudia curis.</q>
+            </p>
+         </div>
+         <div type="epitaph">
+            <head>His Epitaph.</head>
+            <l>HEre lies <hi>Iack Presbyter,</hi> void of all pity,</l>
+            <l>Who ruin'd the Country, and fooled the City:</l>
+            <l>He turned <hi>preaching</hi> to <hi>prating,</hi> and telling of lies,</l>
+            <l>Caus'd <hi>jarres</hi> and <hi>diſcenſſous</hi> in all <hi>Families.</hi>
+            </l>
+            <l>He invented <hi>new Oaths, Rebellion</hi> to raiſe,</l>
+            <l>Deceiving the <hi>Commons,</hi> whilſt on them he prayes.</l>
+            <l>He made a <hi>New Creed,</hi> diſpiſed the <hi>Old,</hi>
+            </l>
+            <l>
+               <hi>King, State,</hi> and <hi>Religion</hi> by him bought and ſold.</l>
+            <l>He foure yeeres conſulted, and yet could not tell</l>
+            <l>The <hi>Parliament</hi> the way <hi>Chriſt</hi> went into <hi>Hell.</hi>
+            </l>
+            <l>Reſolved therein, he never could be,</l>
+            <l>Therefore in great haſte, he's gone thither to ſee.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
